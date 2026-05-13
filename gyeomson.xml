@@ -6,94 +6,10 @@
 <description>겸손 뉴스공장</description>
 <language>ko</language>
 <item>
-<title>20260513_김어준의</title>
-<enclosure url="file:///data/data/com.termux/files/home/storage/shared/podcasts/Gyeomson/NewsFactory/20260513_김어준의" length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:34 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>겸손은힘들다</title>
-<enclosure url="file://겸손은힘들다" length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:34 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>뉴스공장</title>
-<enclosure url="file://뉴스공장" length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:34 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>2026년</title>
-<enclosure url="file://2026년" length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:34 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>5월</title>
-<enclosure url="file://5월" length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:35 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>13일</title>
-<enclosure url="file://13일" length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:35 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>수요일</title>
-<enclosure url="file://수요일" length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:35 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>[이원택,</title>
-<enclosure url="file://[이원택," length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:35 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>위성곤,</title>
-<enclosure url="file://위성곤," length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:36 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>조상호,</title>
-<enclosure url="file://조상호," length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:36 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>여론조사,</title>
-<enclosure url="file://여론조사," length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:36 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>손영채,</title>
-<enclosure url="file://손영채," length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:36 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>홍사훈X노영희X주진우X봉지욱X남욱,</title>
-<enclosure url="file://홍사훈X노영희X주진우X봉지욱X남욱," length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:37 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>영화공장,</title>
-<enclosure url="file://영화공장," length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:37 +0900</pubDate>
-<itunes:duration></itunes:duration>
-</item>
-<item>
-<title>박수현X김영빈X전은수]</title>
-<enclosure url="file://박수현X김영빈X전은수].m4a" length="" type="audio/mp4"/>
-<pubDate>Wed, 13 May 2026 17:00:37 +0900</pubDate>
-<itunes:duration></itunes:duration>
+<title>20260513_김어준의 겸손은힘들다 뉴스공장 2026년 5월 13일 수요일 [이원택, 위성곤, 조상호, 여론조사, 손영채, 홍사훈X노영희X주진우X봉지욱X남욱, 영화공장, 박수현X김영빈X전은수]</title>
+<enclosure url="file:///data/data/com.termux/files/home/storage/shared/podcasts/Gyeomson/NewsFactory/20260513_김어준의 겸손은힘들다 뉴스공장 2026년 5월 13일 수요일 [이원택, 위성곤, 조상호, 여론조사, 손영채, 홍사훈X노영희X주진우X봉지욱X남욱, 영화공장, 박수현X김영빈X전은수].m4a" length="159853028" type="audio/mp4"/>
+<pubDate>Wed, 13 May 2026 17:12:20 +0900</pubDate>
+<itunes:duration>9884</itunes:duration>
 </item>
 </channel>
 </rss>
